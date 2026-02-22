@@ -1,4 +1,4 @@
-# Internnee.pk-Intern-Task-Management-System-UI
+# Internee.pk-Intern-Task-Management-System-UI
 Complete UI/UX design for the Intern Management System including dashboard pages, task management screens, analytics views, light & dark modes, reusable components, and interactive prototype.
 
 ---
